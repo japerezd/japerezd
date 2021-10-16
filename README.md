@@ -6,6 +6,7 @@ You can check my little portfolio here 😀: https://japerezd.github.io/portfoli
 
 ### Skills
 * ⚛ React
+* 🍀 Vue / Nuxt
 * 💻 HTML/CSS/JavaScript
 
 
