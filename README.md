@@ -1,10 +1,13 @@
 # ✌🏽 Hello, I'm Jorge Pérez
+
 ## 💻 Front End Developer
-I'm from Veracruz, México and I'm a front end developer. In the future i would like to become a Full-Stack Web Developer. I really enjoy to build things and solve problems using JavaScript and libraries/frameworks like React or Vue. Also I'm very interested to learn in a long term mobile app development using either React Native or Flutter. 
+
+I'm from Veracruz, México and I'm a front end developer. In the future i would like to become a Full-Stack Web Developer. I really enjoy to build things and solve problems using JavaScript and libraries/frameworks like React or Vue. Also I'm very interested to learn in a long term mobile app development using either React Native or Flutter.
 
 You can check my little portfolio [here](https://japerezd.github.io/portfolio-resume/Portfolio/) 😀
 
 ## 🚀 Skills
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit)
@@ -27,6 +30,6 @@ You can check my little portfolio [here](https://japerezd.github.io/portfolio-re
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-## 📉 My Github Stats
+## 📉 My GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
