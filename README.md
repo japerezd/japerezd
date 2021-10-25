@@ -2,7 +2,7 @@
 ## 💻 Front End Developer
 I'm from Veracruz, México and I'm a front end developer. In the future i would like to become a Full-Stack Web Developer. I really enjoy to build things and solve problems using JavaScript and libraries/frameworks like React or Vue. Also I'm very interested to learn in a long term mobile app development using either React Native or Flutter. 
 
-You can check my little portfolio here 😀: https://japerezd.github.io/portfolio-resume/Portfolio/
+You can check my little portfolio [here](https://japerezd.github.io/portfolio-resume/Portfolio/)  😀
 
 ## 🚀 Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,13 +26,8 @@ You can check my little portfolio here 😀: https://japerezd.github.io/portfoli
 <a href="https://japerezd.github.io/portfolio-resume/Portfolio/">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://github.com/japerezd" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 ## 📉 My Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=japerezd.japerezd)
