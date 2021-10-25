@@ -15,4 +15,4 @@ You can check my little portfolio here 😀: https://japerezd.github.io/portfoli
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=japerezd)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
