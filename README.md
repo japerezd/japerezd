@@ -1,18 +1,25 @@
-# Hello, i'm Jorge Pérez
-## Front End Developer
+# ✌ Hello, i'm Jorge Pérez
+## 💻 Front End Developer
 I'm from Veracruz, México and i'm a front end developer. In the future i would like to become a Full-Stack Web Developer. I really enjoy to build things and solve problems using JavaScript and libraries/frameworks like React or Vue. Also i'm very interested to learn in a long term mobile app development using either React Native or Flutter. 
 
 You can check my little portfolio here 😀: https://japerezd.github.io/portfolio-resume/Portfolio/
 
-## Skills
-* ⚛ React
-* 🍀 Vue / Nuxt
-* 💻 HTML/CSS/JavaScript
+## 🚀 Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🙋🏽‍♂️ Social
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/japerezd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-pérez-18a445196//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://japerezd.github.io/portfolio-resume/Portfolio/)  
 
-
-
+## 📉 My Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
