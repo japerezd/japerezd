@@ -18,8 +18,16 @@ You can check my little portfolio here 😀: https://japerezd.github.io/portfoli
 
 ## 🙋🏽‍♂️ Social
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/japerezd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jorge-pérez-18a445196//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://japerezd.github.io/portfolio-resume/Portfolio/)  
+<a href="https://www.linkedin.com/in/jorge-pérez-18a445196" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/japerezd" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ## 📉 My Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=japerezd.japerezd)
