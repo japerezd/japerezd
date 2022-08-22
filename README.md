@@ -32,6 +32,6 @@ You can check my little portfolio [here](https://japerezd.netlify.app/) 😀
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-## 📉 My GitHub Stats
+## 📈 My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=japerezd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
