@@ -4,7 +4,7 @@
 
 I'm from Veracruz, México and I'm a front end developer. In the future i would like to become a Full-Stack Web Developer. I really enjoy to build things and solve problems using JavaScript and libraries/frameworks like React or Vue. Also I'm very interested to learn in a long term mobile app development using either React Native or Flutter.
 
-You can check my little portfolio [here](https://japerezd.netlify.app/) 😀
+You can check my small portfolio [here](https://japerezd.netlify.app/) 😀
 
 ## 🚀 Skills
 
